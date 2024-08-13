@@ -26,7 +26,7 @@ const Footer = () => {
               <div className="-mx-3 flex items-center">
                 <a
                   aria-label="social link"
-                  href="/#"
+                  href="https://web.facebook.com/neaofficials"
                   className="px-3 text-gray-7 hover:text-red"
                 >
                   <svg
@@ -43,7 +43,7 @@ const Footer = () => {
                 
                 <a
                   aria-label="social link"
-                  href="/#"
+                  href="https://www.instagram.com/neaofficials/"
                   className="px-3 text-gray-7 hover:text-red"
                 >
                   <svg
@@ -61,7 +61,7 @@ const Footer = () => {
                 </a>
                 <a
                   aria-label="social link"
-                  href="/#"
+                  href="https://www.linkedin.com/company/national-engineering-alliance-nea/about/?viewAsMember=true"
                   className="px-3 text-gray-7 hover:text-red"
                 >
                   <svg
