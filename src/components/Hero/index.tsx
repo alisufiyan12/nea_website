@@ -204,16 +204,16 @@ const Hero = () => {
 
             <div className="w-full px-4">
               <div
-                className="wow fadeInUp relative z-10 mx-auto max-w-[845px]"
+                className="wow fadeInUp relative z-10 mx-auto max-w-[1845px]"
                 data-wow-delay=".25s"
               >
                 <div className="mt-16">
                   <Image
-                    src="/images/hero/hero-image.jpg"
+                    src="/images/hero/hero-image.png"
                     alt="hero"
                     className="mx-auto max-w-full rounded-t-xl rounded-tr-xl"
-                    width={845}
-                    height={316}
+                    width={1845}
+                    height={1316}
                   />
                 </div>
               
