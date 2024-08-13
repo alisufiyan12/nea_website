@@ -248,7 +248,7 @@ const SingleTeam = ({ team }: { team: TeamType }) => {
             <a
               aria-label="social link"
               href={facebookLink}
-              className="text-dark-6 hover:text-primary"
+              className="text-dark-6 hover:text-red"
             >
               <svg
                 width="18"
@@ -264,10 +264,12 @@ const SingleTeam = ({ team }: { team: TeamType }) => {
                 />
               </svg>
             </a>
+            
+            {/* 
             <a
               aria-label="social link"
               href={twitterLink}
-              className="text-dark-6 hover:text-primary"
+              className="text-dark-6 hover:text-red"
             >
               <svg
                 width="18"
@@ -283,10 +285,11 @@ const SingleTeam = ({ team }: { team: TeamType }) => {
                 />
               </svg>
             </a>
+
             <a
               aria-label="social link"
               href={instagramLink}
-              className="text-dark-6 hover:text-primary"
+              className="text-dark-6 hover:text-red"
             >
               <svg
                 width="18"
@@ -310,6 +313,7 @@ const SingleTeam = ({ team }: { team: TeamType }) => {
                 />
               </svg>
             </a>
+            */}
           </div>
         </div>
       </div>

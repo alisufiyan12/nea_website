@@ -6,7 +6,7 @@ const teamData: TeamType[] = [
   {
     id: 1,
     name: "Engr. Muhammad Uzair Khan",
-    designation: "UI Designer",
+    designation: "Candidate Vice Chairman KP",
     image: "/images/team/team-01.png",
     facebookLink: "/#",
     twitterLink: "/#",
@@ -15,7 +15,7 @@ const teamData: TeamType[] = [
   {
     id: 2,
     name: "Engr. Javed Afridi",
-    designation: "UI Designer",
+    designation: "Candidate Civil Engineering",
     image: "/images/team/team-01.png",
     facebookLink: "/#",
     twitterLink: "/#",
@@ -24,7 +24,7 @@ const teamData: TeamType[] = [
   {
     id: 3,
     name: "Engr. Nooraz Gul",
-    designation: "Product Designer",
+    designation: "Candidate Civil Engineering",
     image: "/images/team/team-02.png",
     facebookLink: "/#",
     twitterLink: "/#",
@@ -33,7 +33,7 @@ const teamData: TeamType[] = [
   {
     id: 4,
     name: "Engr. Aurang Zaib Afridi",
-    designation: "App Developer",
+    designation: "Candidate Electonics Engineering",
     image: "/images/team/team-03.png",
     facebookLink: "/#",
     twitterLink: "/#",
@@ -42,7 +42,7 @@ const teamData: TeamType[] = [
   {
     id: 5,
     name: "Engr. Khurram Shehzad",
-    designation: "Content Writer",
+    designation: "Candidate Electrical Engineering",
     image: "/images/team/team-04.png",
     facebookLink: "/#",
     twitterLink: "/#",
@@ -51,7 +51,7 @@ const teamData: TeamType[] = [
   {
     id: 6,
     name: "Engr. Dr. Taj Ali Khan",
-    designation: "Content Writer",
+    designation: "Candidate Mechatronics Engineering",
     image: "/images/team/team-04.png",
     facebookLink: "/#",
     twitterLink: "/#",
@@ -60,7 +60,7 @@ const teamData: TeamType[] = [
   {
     id: 7,
     name: "Engr. Dr. Laiq Hasan",
-    designation: "Content Writer",
+    designation: "Candidate Electrical Engineering",
     image: "/images/team/team-04.png",
     facebookLink: "/#",
     twitterLink: "/#",
