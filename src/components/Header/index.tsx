@@ -260,6 +260,7 @@ const Header = () => {
               </div>
               <div className="hidden items-center justify-end pr-16 sm:flex lg:pr-0">
                 {/* theme toggler */}
+                {/* 
                 <button
                   aria-label="theme toggler"
                   onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
@@ -285,7 +286,7 @@ const Header = () => {
                     </svg>
                   </span>
                 </button>
-
+*/}
                 {session?.user ? (
                   <>
                     <p
