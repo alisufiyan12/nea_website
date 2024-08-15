@@ -108,7 +108,8 @@ const Header = () => {
                   onClick={navbarToggleHandler}
                   id="navbarToggler"
                   aria-label="Mobile Menu"
-                  className="absolute right-4 top-1/2 block -translate-y-1/2 rounded-lg px-3 py-[6px] ring-[#C50219] focus:ring-2 lg:hidden"
+                  className="absolute right-4 top-1/2 block -translate-y-1/2 rounded-lg px-3 
+                  py-[6px] ring-[#C50219] focus:ring-2 lg:hidden"
                 >
                   <span
                     className={`relative my-1.5 block h-0.5 w-[30px] transition-all duration-300 ${
@@ -323,7 +324,7 @@ VOTE                      </button>
 VOTE                        </Link>
                         <Link
                           href="#"
-                          className="rounded-lg bg-[#C50219] px-6 py-3 text-base font-medium text-white duration-300 ease-in-out hover:bg-primary/90 dark:bg-white/10 dark:hover:bg-white/20"
+                          className="rounded-lg bg-[#C50219] px-6 py-3 text-base font-medium text-white duration-300 ease-in-out hover:bg-[#0A760C]/90 dark:bg-white/10 dark:hover:bg-white/20"
                         >
                         18th, August, 2024
                         </Link>

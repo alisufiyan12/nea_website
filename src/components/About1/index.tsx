@@ -168,19 +168,22 @@ const About1 = () => {
                   Engr. Zahid Arif & Engr. Uzair Khan
                 </h2>
                 <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
-                  The main thrust is to focus on educating attendees on how to
-                  best protect highly vulnerable business applications with
-                  interactive panel discussions and roundtables led by subject
-                  matter experts.
+                Meet our esteemed team leaders: Engr. Zahid Arif, serving 
+                as our Patron and Chief, whose vast experience and guidance are 
+                invaluable to our mission. Alongside him, Engr. Uzair Khan is 
+                contesting for the seat of Vice Chairman KP, bringing his dynamic 
+                vision and dedication to the forefront of our campaign. 
                   <br /> <br />
-                  The main thrust is to focus on educating attendees on how to
-                  best protect highly vulnerable business applications with
-                  interactive panel.
+                  Together, we represent the strength and commitment of our young engineers.
+                  And we thrive to make sure that engineers in pakistan gets a national And
+                  international representation, And at the same time making sure of Jobs for
+                  engineers, on job training and making sure starting of salary is equal to 17-Scale and much more...
+
                 </p>
 
                 <a
                   href="/#"
-                  className="inline-flex items-center justify-center rounded-md bg-[#0A760C] animate-pulse px-7 py-3 text-center text-base font-medium text-white duration-300 hover:bg-primary/90"
+                  className="inline-flex items-center justify-center rounded-md bg-[#0A760C] animate-pulse px-7 py-3 text-center text-base font-medium text-white duration-300 hover:bg-[#C50219]/90"
                 >
                   Read more...
                 </a>

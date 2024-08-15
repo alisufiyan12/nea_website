@@ -110,7 +110,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="#contact"
+                    href="/contact"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
                     Contact us
@@ -196,14 +196,14 @@ const Footer = () => {
                   <a
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
-                  >
+                    >
                     PlainAdmin
                   </a>
-                </li>
+                  </li>
               </ul>
             </div>
           </div>
-*/}
+        */}
           <div className="w-full px-4 md:w-2/3 lg:w-6/12 xl:w-3/12">
             <div className="mb-10 w-full">
               <h4 className="mb-9 text-lg font-semibold text-white">
@@ -212,23 +212,15 @@ const Footer = () => {
               <ul>
                 <li>
                   <a
-                    href="/#"
+                    href="/manifesto"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
-                    who can you Vote to?
+                    Our Manifesto
                   </a>
                 </li>
                 <li>
                   <a
-                    href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
-                  >
-                    Election Events
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="/#"
+                    href="/contact"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
                     Support
@@ -236,10 +228,18 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="/#"
+                    href="/guidelines"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
-                    Our Manifesto
+                    Election Guidelines
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="/whocanvote"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
+                  >
+                    Who can you Vote to?
                   </a>
                 </li>
               </ul>

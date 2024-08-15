@@ -33,7 +33,7 @@ const teamData: TeamType[] = [
   {
     id: 4,
     name: "Engr. Aurang Zaib Afridi",
-    designation: "Candidate Electonics Engineering",
+    designation: "Candidate Electronics Engineering",
     image: "/images/team/team-04.png",
     facebookLink: "https://www.facebook.com/profile.php?id=100028429355906&mibextid=ZbWKwL",
     twitterLink: "/#",
@@ -78,7 +78,8 @@ const Team = () => {
           <SectionTitle
             subtitle="Our Team"
             title="Meet Our Team"
-            paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+            paragraph="Get to know the dedicated engineers driving our mission forward. 
+            Our team is committed to excellence, innovation, and making a positive impact in pakistan engineering council."
             width="640px"
             center
           />
