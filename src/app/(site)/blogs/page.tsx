@@ -15,11 +15,11 @@ export const metadata: Metadata = {
 const Blog = () => {
 
   return (
-    <div className='border-2 border-red-400 mt-[100px]'>
+    <div className='border-2 border-[#C50219]-400 mt-[100px]'>
 
     <div className='flex justify-center items-center space-x-10 flex-col md:flex-row'>
             <div className='w-full px-4 lg:w-1/2'>
-            <div className='mb-12 ml-0 lg:ml-10 max-w-[540px] lg:mb-0 border-2 border-green-500'>
+            <div className='mb-12 ml-0 lg:ml-10 max-w-[540px] lg:mb-0 border-2 border-[#0A760C]-500'>
               <h2 className='mb-5 text-3xl font-bold leading-tight text-dark sm:text-[40px] sm:leading-[1.2]'>This is Some Heading</h2>
               <p className='mb-10 text-base leading-relaxed text-body-color '>this will contain some text</p>
             </div>

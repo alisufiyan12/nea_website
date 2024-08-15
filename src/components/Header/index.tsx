@@ -108,7 +108,7 @@ const Header = () => {
                   onClick={navbarToggleHandler}
                   id="navbarToggler"
                   aria-label="Mobile Menu"
-                  className="absolute right-4 top-1/2 block -translate-y-1/2 rounded-lg px-3 py-[6px] ring-red focus:ring-2 lg:hidden"
+                  className="absolute right-4 top-1/2 block -translate-y-1/2 rounded-lg px-3 py-[6px] ring-[#C50219] focus:ring-2 lg:hidden"
                 >
                   <span
                     className={`relative my-1.5 block h-0.5 w-[30px] transition-all duration-300 ${
@@ -155,8 +155,8 @@ const Header = () => {
                               onClick={navbarToggleHandler}
                               scroll={false}
                               href={menuItem.path}
-                              className={`ud-menu-scroll flex py-2 text-base text-dark group-red:text-primary dark:text-white dark:group-hover:text-primary lg:inline-flex lg:px-0 lg:py-6 ${
-                                pathUrl === menuItem?.path && "text-red"
+                              className={`ud-menu-scroll flex py-2 text-base text-dark group-[#C50219]:text-primary dark:text-white dark:group-hover:text-primary lg:inline-flex lg:px-0 lg:py-6 ${
+                                pathUrl === menuItem?.path && "text-[#C50219]"
                               }`}
                             >
                               {menuItem.title}
@@ -167,12 +167,12 @@ const Header = () => {
                               href={menuItem.path}
                               className={`ud-menu-scroll flex py-2 text-base lg:inline-flex lg:px-0 lg:py-6 ${
                                 sticky
-                                  ? "text-dark group-hover:text-red dark:text-white dark:group-hover:text-primary"
+                                  ? "text-dark group-hover:text-[#C50219] dark:text-white dark:group-hover:text-primary"
                                   : "text-body-color dark:text-white lg:text-white"
                               } ${
                                 pathUrl === menuItem?.path &&
                                 sticky &&
-                                "!text-red"
+                                "!text-[#C50219]"
                               }`}
                             >
                               {menuItem.title}
@@ -184,7 +184,7 @@ const Header = () => {
                           {pathUrl !== "/" ? (
                             <button
                               onClick={() => handleSubmenu(index)}
-                              className={`ud-menu-scroll flex items-center justify-between py-2 text-base text-dark group-hover:text-red dark:text-white dark:group-hover:text-primary lg:inline-flex lg:px-0 lg:py-6`}
+                              className={`ud-menu-scroll flex items-center justify-between py-2 text-base text-dark group-hover:text-[#C50219] dark:text-white dark:group-hover:text-primary lg:inline-flex lg:px-0 lg:py-6`}
                             >
                               {menuItem.title}
 
@@ -209,7 +209,7 @@ const Header = () => {
                               onClick={() => handleSubmenu(index)}
                               className={`ud-menu-scroll flex items-center justify-between py-2 text-base lg:inline-flex lg:px-0 lg:py-6 ${
                                 sticky
-                                  ? "text-dark group-hover:text-red dark:text-white dark:group-hover:text-primary"
+                                  ? "text-dark group-hover:text-[#C50219] dark:text-white dark:group-hover:text-primary"
                                   : "text-white"
                               }`}
                             >
@@ -244,8 +244,8 @@ const Header = () => {
                                 key={i}
                                 className={`block rounded px-4 py-[10px] text-sm ${
                                   pathUrl === submenuItem.path
-                                    ? "text-red"
-                                    : "text-body-color hover:text-red dark:text-dark-6 dark:hover:text-primary"
+                                    ? "text-[#C50219]"
+                                    : "text-body-color hover:text-[#C50219] dark:text-dark-6 dark:hover:text-primary"
                                 }`}
                               >
                                 {submenuItem.title}
@@ -300,7 +300,7 @@ const Header = () => {
                       
                       <button
                         onClick={() => signOut()}
-                        className="signUpBtn rounded-lg bg-red bg-opacity-100 px-6 py-3 text-base font-medium text-white duration-300 ease-in-out hover:bg-opacity-20 hover:text-dark"
+                        className="signUpBtn rounded-lg bg-[#C50219] bg-opacity-100 px-6 py-3 text-base font-medium text-white duration-300 ease-in-out hover:bg-opacity-20 hover:text-dark"
                       >
 VOTE                      </button>
                     ) : (
@@ -323,7 +323,7 @@ VOTE                      </button>
 VOTE                        </Link>
                         <Link
                           href="#"
-                          className="rounded-lg bg-red px-6 py-3 text-base font-medium text-white duration-300 ease-in-out hover:bg-primary/90 dark:bg-white/10 dark:hover:bg-white/20"
+                          className="rounded-lg bg-[#C50219] px-6 py-3 text-base font-medium text-white duration-300 ease-in-out hover:bg-primary/90 dark:bg-white/10 dark:hover:bg-white/20"
                         >
                         18th, August, 2024
                         </Link>
@@ -333,7 +333,7 @@ VOTE                        </Link>
                         <Link
                           href="#"
                           className={`px-7 py-3 text-base font-medium hover:opacity-70 ${
-                            sticky ? "text-dark dark:text-white" : "text-red"
+                            sticky ? "text-dark dark:text-white" : "text-[#C50219]"
                           }`}
                         >
 VOTE                        </Link>
@@ -341,7 +341,7 @@ VOTE                        </Link>
                           href="#"
                           className={`rounded-lg px-6 py-3 text-base font-medium text-white duration-300 ease-in-out ${
                             sticky
-                              ? "bg-red hover:bg-green/90 dark:bg-white/10 dark:hover:bg-white/20"
+                              ? "bg-[#C50219] hover:bg-[#0A760C]/90 dark:bg-white/10 dark:hover:bg-white/20"
                               : "bg-white/10 hover:bg-white/20"
                           }`}
                         >

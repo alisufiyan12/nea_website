@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const CallToAction = () => {
   return (
-    <section className="relative z-10 overflow-hidden bg-green py-20 lg:py-[115px]">
+    <section className="relative z-10 overflow-hidden bg-[#0A760C] py-20 lg:py-[115px]">
       <div className="container mx-auto">
         <div className="relative overflow-hidden">
           <div className="-mx-4 flex flex-wrap items-stretch">
@@ -21,7 +21,7 @@ const CallToAction = () => {
                 </p>
                 <Link
                   href="/"
-                  className="inline-block rounded-md border border-transparent bg-red animate-pulse px-7 py-3 text-base font-medium text-white transition hover:bg-[#b40b0b] hover:animate-pulse"
+                  className="inline-block rounded-md border border-transparent bg-[#C50219] animate-pulse px-7 py-3 text-base font-medium text-white transition hover:bg-[#b40b0b] hover:animate-pulse"
                 >
                   VOTE FOR NEA
                 </Link>

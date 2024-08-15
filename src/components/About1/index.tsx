@@ -16,7 +16,7 @@ const About1 = () => {
                     className={`relative mb-4 sm:mb-8 sm:h-[400px] md:h-[540px] lg:h-[400px] xl:h-[500px] `}
                   >
                     <Image
-                      src="/images/about/about-image-01.jpg"
+                      src="/images/about/zahid_arif.png"
                       alt="about image"
                       fill
                       className="h-full w-full object-cover object-center"
@@ -27,14 +27,14 @@ const About1 = () => {
                 <div className="w-full px-2 sm:w-1/2 sm:px-4 lg:px-2 xl:px-4">
                   <div className="relative mb-4 sm:mb-8 sm:h-[220px] md:h-[346px] lg:mb-4 lg:h-[225px] xl:mb-8 xl:h-[310px]">
                     <Image
-                      src="/images/about/about-image-02.jpg"
+                      src="/images/about/uzair_khan.png"
                       alt="about image"
                       fill
                       className="h-full w-full object-cover object-center"
                     />
                   </div>
 
-                  <div className="relative z-10 mb-4 flex items-center justify-center overflow-hidden bg-red px-6 py-12 sm:mb-8 sm:h-[160px] sm:p-5 lg:mb-4 xl:mb-8">
+                  <div className="relative z-10 mb-4 flex items-center justify-center overflow-hidden bg-[#C50219] px-6 py-12 sm:mb-8 sm:h-[160px] sm:p-5 lg:mb-4 xl:mb-8">
                     <div>
                       <span className="block text-5xl font-extrabold text-white">
                         40+
@@ -180,7 +180,7 @@ const About1 = () => {
 
                 <a
                   href="/#"
-                  className="inline-flex items-center justify-center rounded-md bg-green animate-pulse px-7 py-3 text-center text-base font-medium text-white duration-300 hover:bg-primary/90"
+                  className="inline-flex items-center justify-center rounded-md bg-[#0A760C] animate-pulse px-7 py-3 text-center text-base font-medium text-white duration-300 hover:bg-primary/90"
                 >
                   Read more...
                 </a>

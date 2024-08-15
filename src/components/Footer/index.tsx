@@ -4,7 +4,7 @@ import Link from "next/link";
 const Footer = () => {
   return (
     <footer
-      className="wow fadeInUp relative z-10 bg-green pt-20 lg:pt-[100px]"
+      className="wow fadeInUp relative z-10 bg-[#0A760C] pt-20 lg:pt-[100px]"
       data-wow-delay=".15s"
     >
       <div className="container">
@@ -27,7 +27,7 @@ const Footer = () => {
                 <a
                   aria-label="social link"
                   href="https://web.facebook.com/neaofficials"
-                  className="px-3 text-gray-7 hover:text-red"
+                  className="px-3 text-gray-7 hover:text-[#C50219]"
                 >
                   <svg
                     width="22"
@@ -44,7 +44,7 @@ const Footer = () => {
                 <a
                   aria-label="social link"
                   href="https://www.instagram.com/neaofficials/"
-                  className="px-3 text-gray-7 hover:text-red"
+                  className="px-3 text-gray-7 hover:text-[#C50219]"
                 >
                   <svg
                     width="22"
@@ -62,7 +62,7 @@ const Footer = () => {
                 <a
                   aria-label="social link"
                   href="https://www.linkedin.com/company/national-engineering-alliance-nea/about/?viewAsMember=true"
-                  className="px-3 text-gray-7 hover:text-red"
+                  className="px-3 text-gray-7 hover:text-[#C50219]"
                 >
                   <svg
                     width="22"
@@ -87,7 +87,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-red"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
                     Home
                   </a>
@@ -95,7 +95,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="#team"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-red"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
                     Our Team
                   </a>
@@ -103,7 +103,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="#about"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-red"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
                     About
                   </a>
@@ -111,7 +111,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="#contact"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-red"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
                     Contact us
                   </a>
@@ -129,7 +129,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-red"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
                     How it works
                   </a>
@@ -137,7 +137,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-red"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
                     Privacy policy
                   </a>
@@ -145,7 +145,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-red"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
                     Terms of Service
                   </a>
@@ -153,7 +153,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-red"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
                     Refund policy
                   </a>
@@ -171,7 +171,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-red"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
                     LineIcons
                   </a>
@@ -179,7 +179,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-red"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
                     Next.js Templates
                   </a>
@@ -187,7 +187,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-red"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
                     TailAdmin
                   </a>
@@ -195,7 +195,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-red"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
                     PlainAdmin
                   </a>
@@ -213,7 +213,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-red"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
                     who can you Vote to?
                   </a>
@@ -221,7 +221,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-red"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
                     Election Events
                   </a>
@@ -229,7 +229,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-red"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
                     Support
                   </a>
@@ -237,7 +237,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-red"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
                     Our Manifesto
                   </a>
@@ -272,7 +272,7 @@ const Footer = () => {
                     href="https://brinsol.agency"
                     rel="nofollow noopner noreferrer"
                     target="_blank"
-                    className="text-red hover:underline"
+                    className="text-[#C50219] hover:underline"
                   >
                     Brinsol
                   </a>

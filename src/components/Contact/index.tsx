@@ -12,12 +12,12 @@ const Contact = () => {
                   CONTACT US
                 </span>
                 <h2 className="max-w-[560px] text-[35px] font-semibold leading-[1.14] text-dark dark:text-white">
-                  To help and guide you about PEC Elections coming, <br /> <span className="text-red animate-pulse">Sunday, 18th August, 2024.</span>
+                  To help and guide you about PEC Elections coming, <br /> <span className="text-[#C50219] animate-pulse">Sunday, 18th August, 2024.</span>
                 </h2>
               </div>
               <div className="mb-12 flex flex-wrap justify-between lg:mb-0">
                 <div className="mb-8 flex w-[330px] max-w-full">
-                  <div className="mr-6 text-[32px] text-red animate-bounce">
+                  <div className="mr-6 text-[32px] text-[#C50219] animate-bounce">
                     <svg
                       width="29"
                       height="35"
@@ -38,7 +38,7 @@ const Contact = () => {
                   </div>
                 </div>
                 <div className="mb-8 flex w-[330px] max-w-full">
-                  <div className="mr-6 text-[32px] text-red">
+                  <div className="mr-6 text-[32px] text-[#C50219]">
                     <svg
                       width="34"
                       height="25"
