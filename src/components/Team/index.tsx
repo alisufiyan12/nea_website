@@ -35,7 +35,7 @@ const teamData: TeamType[] = [
     name: "Engr. Aurang Zaib Afridi",
     designation: "Candidate Electonics Engineering",
     image: "/images/team/team-04.png",
-    facebookLink: "/#",
+    facebookLink: "https://www.facebook.com/profile.php?id=100028429355906&mibextid=ZbWKwL",
     twitterLink: "/#",
     instagramLink: "/#",
   },
