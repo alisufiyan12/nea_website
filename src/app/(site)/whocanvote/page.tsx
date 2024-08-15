@@ -21,7 +21,6 @@ const WhoCanVote = () => {
             carefully read about who can you cast your vote to.</p>
         </div>
 
-      <div className='border-2 border-yellow'>
         <div className='flex flex-center justify-center lg:space-x-5 lg:p-10 p-2 flex-wrap '>
           <Image
           className='rounded-lg my-5 hover:shadow-2 duration-500'
@@ -66,7 +65,6 @@ const WhoCanVote = () => {
           width={500}
           height={500} />
         </div>
-      </div>
     </>
     )
 }
