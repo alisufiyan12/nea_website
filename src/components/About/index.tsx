@@ -25,7 +25,7 @@ const About = () => {
                 </p>
 
                 <a
-                  href="/#"
+                  href="/whocanvote"
                   className="inline-flex items-center justify-center rounded-md bg-[#0A760C] animate-pulse px-7 py-3 text-center text-base font-medium text-white duration-300 hover:bg-[#C50219]/90"
                 >
                   Read more...

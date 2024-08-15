@@ -318,12 +318,12 @@ VOTE                      </button>
                     {pathUrl !== "/" ? (
                       <>
                         <Link
-                          href="#"
+                          href="/whocanvote"
                           className="px-7 py-3 text-base font-medium text-dark dark:text-white"
                         >
 VOTE                        </Link>
                         <Link
-                          href="#"
+                          href="/whocanvote"
                           className="rounded-lg bg-[#C50219] px-6 py-3 text-base font-medium text-white duration-300 ease-in-out hover:bg-[#0A760C]/90 dark:bg-white/10 dark:hover:bg-white/20"
                         >
                         18th, August, 2024
@@ -332,14 +332,14 @@ VOTE                        </Link>
                     ) : (
                       <>
                         <Link
-                          href="#"
+                          href="/whocanvote"
                           className={`px-7 py-3 text-base font-medium hover:opacity-70 ${
                             sticky ? "text-dark dark:text-white" : "text-[#C50219]"
                           }`}
                         >
 VOTE                        </Link>
                         <Link
-                          href="#"
+                          href="/whocanvote"
                           className={`rounded-lg px-6 py-3 text-base font-medium text-white duration-300 ease-in-out ${
                             sticky
                               ? "bg-[#C50219] hover:bg-[#0A760C]/90 dark:bg-white/10 dark:hover:bg-white/20"

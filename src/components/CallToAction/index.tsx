@@ -20,7 +20,7 @@ const CallToAction = () => {
                   Engineering Alliance-(NEA), To secure the future of engineers and give NEA the opportunity to change the Fate of Engineering in Pakistan.
                 </p>
                 <Link
-                  href="/"
+                  href="/whocanvote"
                   className="inline-block rounded-md border border-transparent bg-[#C50219] animate-pulse px-7 py-3 text-base font-medium text-white transition hover:bg-[#b40b0b] hover:animate-pulse"
                 >
                   VOTE FOR NEA
