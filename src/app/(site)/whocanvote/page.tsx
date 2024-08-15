@@ -23,43 +23,43 @@ const WhoCanVote = () => {
 
         <div className='flex flex-center justify-center lg:space-x-5 lg:p-10 p-2 flex-wrap '>
           <Image
-          className='rounded-lg my-5 hover:shadow-2 duration-500'
+          className='rounded-lg my-5 shadow-2'
           src="/images/gbmembers/mem1.png"
           alt="VC_who_can_vote"
           width={500}
           height={500} />
           <Image
-          className='rounded-lg my-5 hover:shadow-2 duration-500'
+          className='rounded-lg my-5 shadow-2'
           src="/images/gbmembers/mem2.png"
           alt="VC_who_can_vote"
           width={500}
           height={500} />
           <Image
-          className='rounded-lg my-5 hover:shadow-2 duration-500'
+          className='rounded-lg my-5 shadow-2'
           src="/images/gbmembers/mem3.png"
           alt="VC_who_can_vote"
           width={500}
           height={500} />
           <Image
-          className='rounded-lg my-5 hover:shadow-2 duration-500'
+          className='rounded-lg my-5 shadow-2'
           src="/images/gbmembers/mem4.png"
           alt="VC_who_can_vote"
           width={500}
           height={500} />
           <Image
-          className='rounded-lg my-5 hover:shadow-2 duration-500'
+          className='rounded-lg my-5 shadow-2'
           src="/images/gbmembers/mem5.png"
           alt="VC_who_can_vote"
           width={500}
           height={500} />
           <Image
-          className='rounded-lg my-5'
+          className='rounded-lg my-5 shadow-2'
           src="/images/gbmembers/mem6.png"
           alt="VC_who_can_vote"
           width={500}
           height={500} />
           <Image
-          className='rounded-lg my-5 hover:shadow-2 duration-500'
+          className='rounded-lg my-5 shadow-2'
           src="/images/gbmembers/mem7.png"
           alt="VC_who_can_vote"
           width={500}
