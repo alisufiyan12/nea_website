@@ -57,7 +57,7 @@ const Manifesto = () => {
               <li>Engineering Institution; Engineer Head as Per PEC Act.</li>
               <li>Opportunities of Overseas Employment and Export of Engineer Services.</li>
               <li>Tap Engineering Services Export Opportunities of Employment and Job Contracts Overseas.</li>
-              <li>Engineering's Club Offering Quality Accommodation and Allied Facilities.</li>
+              <li>Engineering&apos;s Club Offering Quality Accommodation and Allied Facilities.</li>
             </ul>
       </div>
     </main>
