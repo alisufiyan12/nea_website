@@ -10,6 +10,7 @@ import Features from "@/components/Features";
 import Hero from "@/components/Hero";
 import Team from "@/components/Team";
 import Testimonials from "@/components/Testimonials";
+import Uzairmsg from "@/components/Uzairmsg";
 //import { getAllPosts } from "@/utils/markdown";
 import { Metadata } from "next";
 
@@ -28,6 +29,7 @@ export default function Home() {
       {/* <Features /> */}
       <About />
       <About1 />
+      <Uzairmsg />
       <Team />
        {/* <Pricing /> 
       <Testimonials />

@@ -94,18 +94,18 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="#team"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
-                  >
-                    Our Team
-                  </a>
-                </li>
-                <li>
-                  <a
                     href="#about"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
                   >
                     About
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="#team"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-[#C50219]"
+                  >
+                    Our Team
                   </a>
                 </li>
                 <li>
