@@ -10,7 +10,7 @@ const Uzairmsg = () => {
           <SectionTitle
             subtitle="Engineering Pioneer & Future Leader"
             title="Engr. Muhammad Uzair Khan"
-            paragraph=""
+            paragraph="Candidate for Vice-Chairman Khyber Pakhtunkhwa & Gilgit Baltistan"
             width="640px"
             center
           />
