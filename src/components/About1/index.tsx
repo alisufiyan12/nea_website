@@ -174,8 +174,7 @@ const About1 = () => {
                 contesting for the seat of Vice Chairman KP, bringing his dynamic 
                 vision and dedication to the forefront of our campaign. 
                   <br /> <br />
-                  Together, we represent the strength and commitment of our young engineers.
-                  And we thrive to make sure that engineers in pakistan gets a national And
+                  We thrive to make sure that engineers in pakistan gets a national And
                   international representation, And at the same time making sure of Jobs for
                   engineers, on job training and making sure starting of salary is equal to 17-Scale and much more...
 

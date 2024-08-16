@@ -56,7 +56,7 @@ const Contact = () => {
                       info@nationalengineers.website
                     </p>
                     <p className="mt-1 text-base text-body-color dark:text-dark-6">
-                      03491903100
+                      +923469044558 / +923469183118.
                     </p>
                   </div>
                 </div>
