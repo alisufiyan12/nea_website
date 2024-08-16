@@ -6,7 +6,7 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   title:
-    "National Engineering Alliace - NEA",
+    "National Engineering Alliance - NEA",
   description: "Events Attended By NEA TEAM",
 };
 
